@@ -11,4 +11,3 @@ LIST PORTFOLIO john.doe@email.com
 LIST PORTFOLIO marry.ville@email.com
 TRANSFER MONEY marry.ville@email.com john.doe@email.com EUR 600
 TRANSFER MONEY john.doe@email.com bob.stucky@email.com EUR 500
-
