@@ -20,13 +20,6 @@ public class Utilizator {
         this.notifications = new ArrayList<>();
     }
 
-    public void addAccount(Cont account) {
-        portfolio.addAccount(account);
-    }
-
-    public void addStock(Actiuni stock) {
-        portfolio.addStock(stock);
-    }
 
     public void addFriend(Utilizator friend) {
         friends.add(friend);
@@ -59,9 +52,7 @@ public class Utilizator {
         notifications.add(message);
     }
 
-    public List<String> getNotifications() {
-        return notifications;
-    }
+
 }
 
 class UtilizatorBuilder {

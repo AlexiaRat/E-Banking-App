@@ -16,9 +16,6 @@ public class Actiuni {
         return companyName;
     }
 
-    public List<Double> getValues() {
-        return values;
-    }
     public Integer getAmount() {
         return amount;
     }
